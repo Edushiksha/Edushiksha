@@ -1,3 +1,4 @@
+![image](https://github.com/Edushiksha/Edushiksha/assets/145859960/1b445087-01d4-4a67-9a9f-b6d4adb4f994)
 
 <h1 align="center">Hi 👋, I'm Shiksha Dahal</h1>
 <h3 align="center">A passionate frontend developer</h3>
