@@ -22,4 +22,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edushiksha &layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edushiksha&show_icons=true&locale=en" alt="edushiksha" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Edushiksha&show_icons=true&locale=en" alt="edushiksha" /></p>
